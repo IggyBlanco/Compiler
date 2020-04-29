@@ -1,4 +1,4 @@
-How to run Driver:
+How to run Driver(UNIX-based GUI):
 
 1) Enter Compiler Directory
 
