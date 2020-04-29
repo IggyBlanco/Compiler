@@ -1,4 +1,4 @@
-// Juan Blanco, ju589373
+// Iggy Blanco
 // PARSER
 
 #include <stdio.h>
